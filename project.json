@@ -1,6 +1,6 @@
 {
   "name": "AIF_EmailClassification",
-  "description": "Try email classification with AI Fabric.\r\n",
+  "description": "Demonstração do UiPath AIFabric utilizando o modelo ML para Classificação de Emails\r\n",
   "main": "Main_AI_Fabric.xaml",
   "dependencies": {
     "UiPath.DataRobot.Activities": "[1.1.0]",
