@@ -1,2 +1,2 @@
 # DEMO_AIF-EmailClassification
-Demo de AIFabric para Classificação de Emails
+Demonstração do UiPath AIFabric utilizando o modelo ML para Classificação de Emails
