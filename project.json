@@ -1,5 +1,5 @@
 {
-  "name": "AIF_EmailClassification",
+  "name": "DEMO_AIF-EmailClassification",
   "description": "Demonstração do UiPath AIFabric utilizando o modelo ML para Classificação de Emails\r\n",
   "main": "Main_AI_Fabric.xaml",
   "dependencies": {
